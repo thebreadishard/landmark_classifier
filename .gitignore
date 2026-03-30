@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+checkpoints/
+__MACOSX/
+static_images/test/
+static_images/train/
+*.tar.gz
